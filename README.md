@@ -1,1 +1,3 @@
-# Ebitter
+---
+permalink: /index.html
+---
