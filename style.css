@@ -9,3 +9,34 @@ width:100%;
 }
 ～以下、画面の横幅が768pxまでの場合のスタイル記入～
 }
+
+h1,
+h2,
+h3,
+h4 {
+    margin: .1rem 0;
+}
+
+h1 {
+    font-size: 2rem;
+    font: 1.2em "Fira Sans", sans-serif;
+}
+
+h2 {
+    font-size: 1.5rem;
+    padding-left: 20px;
+    font: 1.2em "Fira Sans", sans-serif;
+}
+
+h3 {
+    font-size: 1.2rem;
+    padding-left: 40px;
+    font: 1.2em "Fira Sans", sans-serif;
+}
+
+h4 {
+    font-size: 1rem;
+    font-style: italic;
+    padding-left: 60px;
+    font: 1.2em "Fira Sans", sans-serif;
+}
